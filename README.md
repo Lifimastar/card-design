@@ -11,7 +11,7 @@ Para iniciar la aplicación, se debe ejecutar el siguiente comando en la termina
 
 Esto abrirá una ventana del navegador con la interfaz gráfica de la aplicación.
 
-![imagen de la tarjeta] ()
+![imagen de la tarjeta](https://github.com/Lifimastar/card-design/blob/main/assets/card.png)
 
 # Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
